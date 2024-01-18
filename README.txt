@@ -8,3 +8,6 @@ Website:                https://dancingcloudservices.com
 Upcoming live classes:  https://dancingcloudservices.com/index.php/classes/
 LinkedIn:               https://www.linkedin.com/in/simonhgroberts/
 YouTube Channel:        https://www.youtube.com/@DancingCloudServices
+
+Heinz Kabutz's monthly email about his favorite courses on O'Reilly:
+https://javaspecialists.eu/courses/oreilly/
